@@ -6,10 +6,11 @@ public class ExplodeEffect : MonoBehaviour
 {
 
     SpellManager spellManager;
-    Explosion explosionScript;
+    DamageDealer damageDealer;
     GameObject explosionPrefab;
+    bool IsQuitting;
 
-    public int damage;
+    public int explDamage;
 
     void Start()
     {
@@ -24,8 +25,16 @@ public class ExplodeEffect : MonoBehaviour
 
     private void OnDestroy()
     {
-        GameObject explosion = Instantiate(explosionPrefab, transform.position, transform.rotation) as GameObject;
-        if (explosionScript) { explosion.GetComponent<DamageDealer>().damage = damage; }
+        if (!IsQuitting && explosionPrefab)
+        {
+            GameObject explosion = Instantiate(explosionPrefab, transform.position + transform.position * 0.1f, transform.rotation) as GameObject;
+            damageDealer = explosion.GetComponent<DamageDealer>();
+            if (damageDealer) { damageDealer.damage = explDamage; }
+        }
+    }
 
+    private void OnApplicationQuit()
+    {
+        IsQuitting = false;
     }
 }

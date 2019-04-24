@@ -23,6 +23,12 @@ TextureImporter:
   - first:
       213: -8361753245642050962
     second: Sprite_FX_Effects_Srites_0020_6
+  - first:
+      213: 7819973447182183878
+    second: Sprite_FX_Effects_Srites_0020_7
+  - first:
+      213: 1252564302652379215
+    second: Sprite_FX_Effects_Srites_0020_8
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -112,8 +118,8 @@ TextureImporter:
         y: 0
         width: 200
         height: 182
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -133,8 +139,8 @@ TextureImporter:
         y: 0
         width: 200
         height: 182
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -154,8 +160,8 @@ TextureImporter:
         y: 0
         width: 200
         height: 182
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -175,8 +181,8 @@ TextureImporter:
         y: 0
         width: 200
         height: 182
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -196,8 +202,8 @@ TextureImporter:
         y: 0
         width: 200
         height: 182
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -217,8 +223,8 @@ TextureImporter:
         y: 0
         width: 200
         height: 182
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -238,8 +244,8 @@ TextureImporter:
         y: 0
         width: 200
         height: 182
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -247,6 +253,48 @@ TextureImporter:
       bones: []
       spriteID: 485105b61fb496041be78a2c22375a40
       internalID: -8361753245642050962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_FX_Effects_Srites_0020_7
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 0
+        width: 1041
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22566cc5e0b2814dbd8683dccefec56
+      internalID: 7819973447182183878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_FX_Effects_Srites_0020_8
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 105
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbe8058b8b5c97438cb92b0e2f157f2
+      internalID: 1252564302652379215
       vertices: []
       indices: 
       edges: []

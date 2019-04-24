@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityStandardAssets.CrossPlatformInput;
@@ -7,10 +6,12 @@ using UnityStandardAssets.CrossPlatformInput;
 
 public class SpellManager : MonoBehaviour
 {
-    [Header("Projectile Stats")]
+    [Header("Spell Stats")]
     public int damage;
+    public int manaCost;
     public int explDamage;
     public float projSpeed = 10f;
+    public float bulletSpread = 0f;
     public float cdAfterCast = 1f;
     public float lifeTime = 2f;
     public float castTime = 1f;
@@ -18,16 +19,18 @@ public class SpellManager : MonoBehaviour
     public GameObject spellPrefab;
     public GameObject explosionPrefab;
 
-    [Header("Sound")]
+    [Header("Spell Sounds")]
     [SerializeField] AudioClip explosionSFX;
     [SerializeField] [Range(0, 1)] float explosionSFXVol = 0.75f;
     [SerializeField] AudioClip shootSound;
     [SerializeField] [Range(0, 1)] float shootSoundVol = 0.75f;
 
-    [Header("Projectile Angle Offset")]
-    public float offset;
+    [Header("Misc Spell Options")]
+    public float angleOffset;
+    public Vector3 castSpawnOffset;
+    public Vector3 spellSpawnOffset;
 
-    //ignore
+    //IGNORE
     bool coolDown = false;
     Player player;
     GameObject cast;
@@ -35,7 +38,9 @@ public class SpellManager : MonoBehaviour
     DamageDealer damageDealer;
     Rigidbody2D spellBody;
     ExplodeEffect explodeEffect;
-    //ignore
+    float rotZ;
+    public Vector2 bulletSpreadV;
+    //IGNORE
 
     public void Start()
     {
@@ -46,8 +51,6 @@ public class SpellManager : MonoBehaviour
     public void Update()
     {
         Shoot();
-
-        CursorAngle();
     }
 
     private void Shoot()
@@ -61,7 +64,7 @@ public class SpellManager : MonoBehaviour
 
     IEnumerator StartCasting()
     {
-        GameObject cast = Instantiate(castPrefab, transform.position + new Vector3(0, 0, 0), transform.rotation) as GameObject;
+        cast = Instantiate(castPrefab, transform.position + castSpawnOffset, transform.rotation) as GameObject;
         cast.transform.parent = transform;
         Destroy(cast, castTime + 0.1f);
         yield return new WaitForSeconds(castTime);
@@ -70,7 +73,9 @@ public class SpellManager : MonoBehaviour
 
     IEnumerator ShootSomething()
     {
-        GameObject spell = Instantiate(spellPrefab, transform.position + new Vector3(0, 0.1f, 0), transform.rotation) as GameObject;
+        CursorAngle();
+        bulletSpreadV = new Vector2(Random.Range(-bulletSpread, bulletSpread), Random.Range(-bulletSpread, bulletSpread));
+        spell = Instantiate(spellPrefab, transform.position + spellSpawnOffset, transform.rotation) as GameObject;
         ConfigureSpell();
         Destroy(spell, lifeTime);
         yield return new WaitForSeconds(cdAfterCast);
@@ -79,9 +84,13 @@ public class SpellManager : MonoBehaviour
 
     private void ConfigureSpell()
     {
-        spell.GetComponent<Rigidbody2D>().velocity = player.mousePos.normalized * projSpeed;
-        if (damageDealer) { spell.GetComponent<DamageDealer>().damage = damage; }
-        if (explodeEffect) { spell.GetComponent<ExplodeEffect>().damage = explDamage; }
+        spellBody = spell.GetComponent<Rigidbody2D>();
+        //if (spellBody) { spellBody.velocity = player.mousePos.normalized * projSpeed; } // ALTERNATIVE
+        if (spellBody) { spellBody.velocity = transform.up * projSpeed; }
+        damageDealer = spell.GetComponent<DamageDealer>();
+        if (damageDealer) { damageDealer.damage = damage; }
+        explodeEffect = spell.GetComponent<ExplodeEffect>();
+        if (explodeEffect) { explodeEffect.explDamage = explDamage; }
 
         //AudioSource.PlayClipAtPoint(shootSound, Camera.main.transform.position, shootSoundVol);
     }
@@ -89,9 +98,9 @@ public class SpellManager : MonoBehaviour
 
     private void CursorAngle()
     {
-        float rotZ = Mathf.Atan2(player.mousePos.y, player.mousePos.x) * Mathf.Rad2Deg;
-        transform.rotation = Quaternion.Euler(0, 0, rotZ + offset);
-        transform.RotateAround(player.transform.position, Vector3.up * 10f, 20 * Time.deltaTime);
+        rotZ = Mathf.Atan2(player.mousePos.y, player.mousePos.x) * Mathf.Rad2Deg;
+        transform.rotation = Quaternion.Euler(0, 0, rotZ + angleOffset);
+        //transform.rotation = Quaternion.AngleAxis(rotZ + angleOffset, Vector3.forward); //ALTERNATIVE
     }
 
 }

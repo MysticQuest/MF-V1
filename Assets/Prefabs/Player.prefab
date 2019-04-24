@@ -279,8 +279,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damage: 150
+  manaCost: 0
   explDamage: 75
   projSpeed: 5
+  bulletSpread: 0
   cdAfterCast: 0
   lifeTime: 2
   castTime: 0.5
@@ -294,4 +296,7 @@ MonoBehaviour:
   explosionSFXVol: 0.75
   shootSound: {fileID: 0}
   shootSoundVol: 0.75
-  offset: -90
+  angleOffset: -90
+  castSpawnOffset: {x: 0, y: 0, z: 0}
+  spellSpawnOffset: {x: 0, y: 0, z: 0}
+  bulletSpreadV: {x: 0, y: 0}

@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 172629725222457754}
   - component: {fileID: 7132315934011058897}
   - component: {fileID: 5618419724786358001}
-  - component: {fileID: 9011266777177265669}
+  - component: {fileID: 1678603345983416548}
   - component: {fileID: 3732673694330612172}
   m_Layer: 0
   m_Name: FireExplosion
@@ -29,7 +29,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 403329197726477544}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.76, y: 0.06, z: 0}
+  m_LocalPosition: {x: -3.736, y: 0.068, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -115,7 +115,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 74a2308d54256fd42a9845fc2448df1a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &9011266777177265669
+--- !u!114 &1678603345983416548
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
