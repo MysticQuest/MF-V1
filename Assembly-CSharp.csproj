@@ -62,12 +62,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\DamageDealer.cs" />
-    <Compile Include="Assets\PlayerHealth.cs" />
+    <Compile Include="Assets\Scripts\DamageDealer.cs" />
+    <Compile Include="Assets\Scripts\ExplodeEffect.cs" />
+    <Compile Include="Assets\Scripts\Explosion.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
+    <Compile Include="Assets\Scripts\PlayerHealth.cs" />
     <Compile Include="Assets\Scripts\PlayerMovementOld.cs" />
     <Compile Include="Assets\Scripts\PlayerOld.cs" />
-    <Compile Include="Assets\Scripts\Shooter.cs" />
+    <Compile Include="Assets\Scripts\SpellManager.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/l1sko/Documents/Unity Projects/MF V1/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>

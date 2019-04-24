@@ -278,17 +278,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 409893ced01105a438094734396dab7a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projSpeed: 10
+  damage: 150
+  explDamage: 75
+  projSpeed: 5
   cdAfterCast: 0
   lifeTime: 2
   castTime: 0.5
+  castPrefab: {fileID: 5499528482271752173, guid: 8ddd679351c2a6f4d931a5ea6e07425d,
+    type: 3}
   spellPrefab: {fileID: 418817856182538871, guid: 0fba44705d9af694ab34acd2478d9af3,
     type: 3}
-  castPrefab: {fileID: 5499528482271752173, guid: 8ddd679351c2a6f4d931a5ea6e07425d,
+  explosionPrefab: {fileID: 403329197726477544, guid: 4e16b2974b6629f4e95fbe1c5a52273f,
     type: 3}
   explosionSFX: {fileID: 0}
   explosionSFXVol: 0.75
   shootSound: {fileID: 0}
   shootSoundVol: 0.75
   offset: -90
-  cast: {fileID: 0}

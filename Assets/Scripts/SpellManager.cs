@@ -5,18 +5,18 @@ using UnityEngine;
 using UnityStandardAssets.CrossPlatformInput;
 
 
-public class Shooter : MonoBehaviour
+public class SpellManager : MonoBehaviour
 {
-
-
-
     [Header("Projectile Stats")]
+    public int damage;
+    public int explDamage;
     public float projSpeed = 10f;
     public float cdAfterCast = 1f;
     public float lifeTime = 2f;
     public float castTime = 1f;
-    public GameObject spellPrefab;
     public GameObject castPrefab;
+    public GameObject spellPrefab;
+    public GameObject explosionPrefab;
 
     [Header("Sound")]
     [SerializeField] AudioClip explosionSFX;
@@ -24,14 +24,18 @@ public class Shooter : MonoBehaviour
     [SerializeField] AudioClip shootSound;
     [SerializeField] [Range(0, 1)] float shootSoundVol = 0.75f;
 
-    bool coolDown = false;
-    Player player;
-    //Quaternion prefabAngle;
-
-    [Header("Angle Offset")]
+    [Header("Projectile Angle Offset")]
     public float offset;
 
-    public GameObject cast;
+    //ignore
+    bool coolDown = false;
+    Player player;
+    GameObject cast;
+    GameObject spell;
+    DamageDealer damageDealer;
+    Rigidbody2D spellBody;
+    ExplodeEffect explodeEffect;
+    //ignore
 
     public void Start()
     {
@@ -41,9 +45,9 @@ public class Shooter : MonoBehaviour
 
     public void Update()
     {
-        CursorAngle();
-
         Shoot();
+
+        CursorAngle();
     }
 
     private void Shoot()
@@ -55,24 +59,33 @@ public class Shooter : MonoBehaviour
         }
     }
 
-    IEnumerator ShootSomething()
-    {
-        GameObject spell = Instantiate(spellPrefab, transform.position + new Vector3(0, 0.1f, 0), transform.rotation) as GameObject;
-        spell.GetComponent<Rigidbody2D>().velocity = player.mousePos.normalized * projSpeed;
-        //AudioSource.PlayClipAtPoint(shootSound, Camera.main.transform.position, shootSoundVol);
-        Destroy(spell, lifeTime);
-        yield return new WaitForSeconds(cdAfterCast);
-        coolDown = false;
-    }
-
     IEnumerator StartCasting()
     {
-        cast = Instantiate(castPrefab, transform.position + new Vector3(0, 0, 0), transform.rotation) as GameObject;
+        GameObject cast = Instantiate(castPrefab, transform.position + new Vector3(0, 0, 0), transform.rotation) as GameObject;
         cast.transform.parent = transform;
         Destroy(cast, castTime + 0.1f);
         yield return new WaitForSeconds(castTime);
         StartCoroutine(ShootSomething());
     }
+
+    IEnumerator ShootSomething()
+    {
+        GameObject spell = Instantiate(spellPrefab, transform.position + new Vector3(0, 0.1f, 0), transform.rotation) as GameObject;
+        ConfigureSpell();
+        Destroy(spell, lifeTime);
+        yield return new WaitForSeconds(cdAfterCast);
+        coolDown = false;
+    }
+
+    private void ConfigureSpell()
+    {
+        spell.GetComponent<Rigidbody2D>().velocity = player.mousePos.normalized * projSpeed;
+        if (damageDealer) { spell.GetComponent<DamageDealer>().damage = damage; }
+        if (explodeEffect) { spell.GetComponent<ExplodeEffect>().damage = explDamage; }
+
+        //AudioSource.PlayClipAtPoint(shootSound, Camera.main.transform.position, shootSoundVol);
+    }
+
 
     private void CursorAngle()
     {
