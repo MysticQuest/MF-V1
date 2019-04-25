@@ -1,346 +1,190 @@
 fileFormatVersion: 2
-guid: 11012ca7f0c0f7c43b78e18c16d9cdc4
+guid: 5d26ac09dff7e8e4e9cd100ac694cf5d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6558452601870386918
-    second: 9_brightfire_spritesheet_0
+      213: 2836480152517601870
+    second: 18_midnight_spritesheet_0
   - first:
-      213: -2465196466674716113
-    second: 9_brightfire_spritesheet_1
+      213: -3643894774315503928
+    second: 18_midnight_spritesheet_1
   - first:
-      213: -9071517282817548811
-    second: 9_brightfire_spritesheet_2
+      213: -3483194083964862393
+    second: 18_midnight_spritesheet_2
   - first:
-      213: -5952158568716484751
-    second: 9_brightfire_spritesheet_3
+      213: -2921409834776107662
+    second: 18_midnight_spritesheet_3
   - first:
-      213: 448227872124431732
-    second: 9_brightfire_spritesheet_4
+      213: -3409776947945446445
+    second: 18_midnight_spritesheet_4
   - first:
-      213: -7610334878636687532
-    second: 9_brightfire_spritesheet_5
+      213: 6062167822087531616
+    second: 18_midnight_spritesheet_5
   - first:
-      213: 7223964375592643700
-    second: 9_brightfire_spritesheet_6
+      213: 7333324851912577740
+    second: 18_midnight_spritesheet_6
   - first:
-      213: 9211607798652828248
-    second: 9_brightfire_spritesheet_7
+      213: -611563102071076472
+    second: 18_midnight_spritesheet_7
   - first:
-      213: -1665503013322516492
-    second: 9_brightfire_spritesheet_8
+      213: 1341293002823793137
+    second: 18_midnight_spritesheet_8
   - first:
-      213: -6841263663549580795
-    second: 9_brightfire_spritesheet_9
+      213: 3687885857908724931
+    second: 18_midnight_spritesheet_9
   - first:
-      213: -2104605989002759816
-    second: 9_brightfire_spritesheet_10
+      213: -1298083768606061157
+    second: 18_midnight_spritesheet_10
   - first:
-      213: -1953229981728515932
-    second: 9_brightfire_spritesheet_11
+      213: 8093268784921398680
+    second: 18_midnight_spritesheet_11
   - first:
-      213: 5186414982265772723
-    second: 9_brightfire_spritesheet_12
+      213: -1317489849786439739
+    second: 18_midnight_spritesheet_12
   - first:
-      213: 8678432798149140542
-    second: 9_brightfire_spritesheet_13
+      213: 3079114349046288548
+    second: 18_midnight_spritesheet_13
   - first:
-      213: 3497123677135596299
-    second: 9_brightfire_spritesheet_14
+      213: -1850302710861422086
+    second: 18_midnight_spritesheet_14
   - first:
-      213: 3290398892827020565
-    second: 9_brightfire_spritesheet_15
+      213: -4849972725203124513
+    second: 18_midnight_spritesheet_15
   - first:
-      213: 3053915076868730950
-    second: 9_brightfire_spritesheet_16
+      213: 1706611276178068450
+    second: 18_midnight_spritesheet_16
   - first:
-      213: -8848238324273062682
-    second: 9_brightfire_spritesheet_17
+      213: -1475377461793238234
+    second: 18_midnight_spritesheet_17
   - first:
-      213: 7169236984608765428
-    second: 9_brightfire_spritesheet_18
+      213: -393138869551162100
+    second: 18_midnight_spritesheet_18
   - first:
-      213: -1331589761665662105
-    second: 9_brightfire_spritesheet_19
+      213: -4922179752583707712
+    second: 18_midnight_spritesheet_19
   - first:
-      213: 1023791138508955327
-    second: 9_brightfire_spritesheet_20
+      213: -6953183448195280384
+    second: 18_midnight_spritesheet_20
   - first:
-      213: 7672898474402729819
-    second: 9_brightfire_spritesheet_21
+      213: 8947847874957413759
+    second: 18_midnight_spritesheet_21
   - first:
-      213: -6403103267373643983
-    second: 9_brightfire_spritesheet_22
+      213: 5074502612816047927
+    second: 18_midnight_spritesheet_22
   - first:
-      213: -1473288609433731306
-    second: 9_brightfire_spritesheet_23
+      213: -5408112245498630866
+    second: 18_midnight_spritesheet_23
   - first:
-      213: 4477203403193557427
-    second: 9_brightfire_spritesheet_24
+      213: 8913784772754894360
+    second: 18_midnight_spritesheet_24
   - first:
-      213: 4445932191321339682
-    second: 9_brightfire_spritesheet_25
+      213: -1723857503700920250
+    second: 18_midnight_spritesheet_25
   - first:
-      213: 3247315481461261031
-    second: 9_brightfire_spritesheet_26
+      213: -2253619936136452454
+    second: 18_midnight_spritesheet_26
   - first:
-      213: 2390942464528506674
-    second: 9_brightfire_spritesheet_27
+      213: -2117305632561935543
+    second: 18_midnight_spritesheet_27
   - first:
-      213: -6390227146658590305
-    second: 9_brightfire_spritesheet_28
+      213: -3188664968580161508
+    second: 18_midnight_spritesheet_28
   - first:
-      213: 938686038344875371
-    second: 9_brightfire_spritesheet_29
+      213: 4274341151618065986
+    second: 18_midnight_spritesheet_29
   - first:
-      213: 2179518683513091263
-    second: 9_brightfire_spritesheet_30
+      213: 3541805730554344286
+    second: 18_midnight_spritesheet_30
   - first:
-      213: 335093914316318650
-    second: 9_brightfire_spritesheet_31
+      213: 539039139303491577
+    second: 18_midnight_spritesheet_31
   - first:
-      213: -687299775227578609
-    second: 9_brightfire_spritesheet_32
+      213: -2275492986154082127
+    second: 18_midnight_spritesheet_32
   - first:
-      213: 8927914430665346584
-    second: 9_brightfire_spritesheet_33
+      213: 4413078587445940002
+    second: 18_midnight_spritesheet_33
   - first:
-      213: 7107235374645944568
-    second: 9_brightfire_spritesheet_34
+      213: 8381363426368685138
+    second: 18_midnight_spritesheet_34
   - first:
-      213: -2183329127946052138
-    second: 9_brightfire_spritesheet_35
+      213: 2607039851422170009
+    second: 18_midnight_spritesheet_35
   - first:
-      213: -7744268219422363643
-    second: 9_brightfire_spritesheet_36
+      213: -3169163829702069654
+    second: 18_midnight_spritesheet_36
   - first:
-      213: 1778107091326574670
-    second: 9_brightfire_spritesheet_37
+      213: 3478009219320006327
+    second: 18_midnight_spritesheet_37
   - first:
-      213: 4795100877918301641
-    second: 9_brightfire_spritesheet_38
+      213: 2551438002453083617
+    second: 18_midnight_spritesheet_38
   - first:
-      213: 10131433668712052
-    second: 9_brightfire_spritesheet_39
+      213: -3621934530570389501
+    second: 18_midnight_spritesheet_39
   - first:
-      213: 379114784657702843
-    second: 9_brightfire_spritesheet_40
+      213: 3621277454725041769
+    second: 18_midnight_spritesheet_40
   - first:
-      213: -1656771884616462433
-    second: 9_brightfire_spritesheet_41
+      213: -7239085734652670759
+    second: 18_midnight_spritesheet_41
   - first:
-      213: 2638449854011298771
-    second: 9_brightfire_spritesheet_42
+      213: -485456920584524998
+    second: 18_midnight_spritesheet_42
   - first:
-      213: -1719537705800022675
-    second: 9_brightfire_spritesheet_43
+      213: 2534959238051979778
+    second: 18_midnight_spritesheet_43
   - first:
-      213: 2966488115930154186
-    second: 9_brightfire_spritesheet_44
+      213: 1532483578173053734
+    second: 18_midnight_spritesheet_44
   - first:
-      213: -5097246636113490162
-    second: 9_brightfire_spritesheet_45
+      213: 2979971801901197042
+    second: 18_midnight_spritesheet_45
   - first:
-      213: -7631247049102076789
-    second: 9_brightfire_spritesheet_46
+      213: 1140225233200406874
+    second: 18_midnight_spritesheet_46
   - first:
-      213: -7181737775733733948
-    second: 9_brightfire_spritesheet_47
+      213: -698643475979276941
+    second: 18_midnight_spritesheet_47
   - first:
-      213: 2425019959240539735
-    second: 9_brightfire_spritesheet_48
+      213: -2321760924485765682
+    second: 18_midnight_spritesheet_48
   - first:
-      213: 6434014965283735744
-    second: 9_brightfire_spritesheet_49
+      213: -3519999015363276306
+    second: 18_midnight_spritesheet_49
   - first:
-      213: 160136917904185498
-    second: 9_brightfire_spritesheet_50
+      213: -1731856574154233122
+    second: 18_midnight_spritesheet_50
   - first:
-      213: -1671750968177010187
-    second: 9_brightfire_spritesheet_51
+      213: 3262611013850237078
+    second: 18_midnight_spritesheet_51
   - first:
-      213: -217503677135191608
-    second: 9_brightfire_spritesheet_52
+      213: 5527880444272381090
+    second: 18_midnight_spritesheet_52
   - first:
-      213: 6804985082179121460
-    second: 9_brightfire_spritesheet_53
+      213: -3210120753309757107
+    second: 18_midnight_spritesheet_53
   - first:
-      213: -5253406765567998284
-    second: 9_brightfire_spritesheet_54
+      213: 7715401647479375621
+    second: 18_midnight_spritesheet_54
   - first:
-      213: 7934933882126231814
-    second: 9_brightfire_spritesheet_55
+      213: -1170386818519480535
+    second: 18_midnight_spritesheet_55
   - first:
-      213: -4534116201438350968
-    second: 9_brightfire_spritesheet_56
+      213: -5335922523655049171
+    second: 18_midnight_spritesheet_56
   - first:
-      213: -2480893072709772843
-    second: 9_brightfire_spritesheet_57
+      213: 3777383902354169814
+    second: 18_midnight_spritesheet_57
   - first:
-      213: -9173862495893681979
-    second: 9_brightfire_spritesheet_58
+      213: -6535733805898711314
+    second: 18_midnight_spritesheet_58
   - first:
-      213: -1689651636669641139
-    second: 9_brightfire_spritesheet_59
+      213: -6042600510670738070
+    second: 18_midnight_spritesheet_59
   - first:
-      213: -1769273148211566751
-    second: 9_brightfire_spritesheet_60
-  - first:
-      213: -2590416889178442603
-    second: 9_brightfire_spritesheet_61
-  - first:
-      213: 454628126545924811
-    second: 9_brightfire_spritesheet_62
-  - first:
-      213: -9190452179093443080
-    second: 9_brightfire_spritesheet_63
-  - first:
-      213: 1511370653515502611
-    second: 9_brightfire_spritesheet_64
-  - first:
-      213: -813139355366874579
-    second: 9_brightfire_spritesheet_65
-  - first:
-      213: 7084960776896199275
-    second: 9_brightfire_spritesheet_66
-  - first:
-      213: -4462718162552577474
-    second: 9_brightfire_spritesheet_67
-  - first:
-      213: 8585114173435985655
-    second: 9_brightfire_spritesheet_68
-  - first:
-      213: -7579590778560066222
-    second: 9_brightfire_spritesheet_69
-  - first:
-      213: 9175660806032495948
-    second: 9_brightfire_spritesheet_70
-  - first:
-      213: 3557409770640410435
-    second: 9_brightfire_spritesheet_71
-  - first:
-      213: 5453582219491059986
-    second: 9_brightfire_spritesheet_72
-  - first:
-      213: -4120243781041648078
-    second: 9_brightfire_spritesheet_73
-  - first:
-      213: -5294801483339151306
-    second: 9_brightfire_spritesheet_74
-  - first:
-      213: -7280030395066885755
-    second: 9_brightfire_spritesheet_75
-  - first:
-      213: 3447615285119613212
-    second: 9_brightfire_spritesheet_76
-  - first:
-      213: 6802260251430290794
-    second: 9_brightfire_spritesheet_77
-  - first:
-      213: 3947052174127204007
-    second: 9_brightfire_spritesheet_78
-  - first:
-      213: -4814474390063852828
-    second: 9_brightfire_spritesheet_79
-  - first:
-      213: -5450069580815889741
-    second: 9_brightfire_spritesheet_80
-  - first:
-      213: 920538527581718854
-    second: 9_brightfire_spritesheet_81
-  - first:
-      213: -3728015659706715392
-    second: 9_brightfire_spritesheet_82
-  - first:
-      213: -4100166519741604395
-    second: 9_brightfire_spritesheet_83
-  - first:
-      213: 5571697343864552184
-    second: 9_brightfire_spritesheet_84
-  - first:
-      213: -4983215996540050086
-    second: 9_brightfire_spritesheet_85
-  - first:
-      213: 5398406316137430964
-    second: 9_brightfire_spritesheet_86
-  - first:
-      213: -3079316169428356436
-    second: 9_brightfire_spritesheet_87
-  - first:
-      213: -6923297023825951964
-    second: 9_brightfire_spritesheet_88
-  - first:
-      213: 187372465830140028
-    second: 9_brightfire_spritesheet_89
-  - first:
-      213: -3063491580356715232
-    second: 9_brightfire_spritesheet_90
-  - first:
-      213: 1472175860589397632
-    second: 9_brightfire_spritesheet_91
-  - first:
-      213: 5402007214018285784
-    second: 9_brightfire_spritesheet_92
-  - first:
-      213: 1597196754672309369
-    second: 9_brightfire_spritesheet_93
-  - first:
-      213: -5165943801273138210
-    second: 9_brightfire_spritesheet_94
-  - first:
-      213: 6431756860247133372
-    second: 9_brightfire_spritesheet_95
-  - first:
-      213: -7081854163447679428
-    second: 9_brightfire_spritesheet_96
-  - first:
-      213: -5384790945792664390
-    second: 9_brightfire_spritesheet_97
-  - first:
-      213: 9088836704269973624
-    second: 9_brightfire_spritesheet_98
-  - first:
-      213: -914631902808815391
-    second: 9_brightfire_spritesheet_99
-  - first:
-      213: 3816975726218669852
-    second: 9_brightfire_spritesheet_100
-  - first:
-      213: 1407742279285727964
-    second: 9_brightfire_spritesheet_101
-  - first:
-      213: 2406163680122824745
-    second: 9_brightfire_spritesheet_102
-  - first:
-      213: -466776200968111146
-    second: 9_brightfire_spritesheet_103
-  - first:
-      213: -4106662539897340177
-    second: 9_brightfire_spritesheet_104
-  - first:
-      213: -7510475945451259158
-    second: 9_brightfire_spritesheet_105
-  - first:
-      213: 9162048052737077367
-    second: 9_brightfire_spritesheet_106
-  - first:
-      213: 6596170204297802358
-    second: 9_brightfire_spritesheet_107
-  - first:
-      213: -6659003681764639573
-    second: 9_brightfire_spritesheet_108
-  - first:
-      213: -782437298439401069
-    second: 9_brightfire_spritesheet_109
-  - first:
-      213: -8223831695715888980
-    second: 9_brightfire_spritesheet_110
-  - first:
-      213: -5780108859950960369
-    second: 9_brightfire_spritesheet_111
-  - first:
-      213: 3072350109056070336
-    second: 9_brightfire_spritesheet_112
+      213: -8907365297867281783
+    second: 18_midnight_spritesheet_60
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -384,7 +228,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -423,1282 +267,1282 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_0
+      name: 18_midnight_spritesheet_0
       rect:
         serializedVersion: 2
         x: 0
         y: 700
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15b2a635a1609af49a8d2bfc4bde6e09
-      internalID: -6558452601870386918
+      spriteID: 60b65a2e8c20baf43be80b1c44f9665c
+      internalID: 2836480152517601870
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_1
+      name: 18_midnight_spritesheet_1
       rect:
         serializedVersion: 2
         x: 100
         y: 700
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 490b7173de7ddba4eaaa4cd137fdbb9a
-      internalID: -2465196466674716113
+      spriteID: 191dcdc1a7bcd294fb87598f7820e39e
+      internalID: -3643894774315503928
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_2
+      name: 18_midnight_spritesheet_2
       rect:
         serializedVersion: 2
         x: 200
         y: 700
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4199aa25435b8db48be0b6175ec37a88
-      internalID: -9071517282817548811
+      spriteID: 84945e8a7c7ee3b41a8fd1898426a65d
+      internalID: -3483194083964862393
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_3
+      name: 18_midnight_spritesheet_3
       rect:
         serializedVersion: 2
         x: 300
         y: 700
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b33332b40f99cf4994c9cd7cb4cf545
-      internalID: -5952158568716484751
+      spriteID: ac4929a0102c0754995795b394779c70
+      internalID: -2921409834776107662
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_4
+      name: 18_midnight_spritesheet_4
       rect:
         serializedVersion: 2
         x: 400
         y: 700
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c9c250cc5c049f2448a743e41cec49e3
-      internalID: 448227872124431732
+      spriteID: 2015c394bbbf86f46b6f266eda4a507d
+      internalID: -3409776947945446445
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_5
+      name: 18_midnight_spritesheet_5
       rect:
         serializedVersion: 2
         x: 500
         y: 700
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d475d4b843a39847817021ca447dfa4
-      internalID: -7610334878636687532
+      spriteID: 4dd6325b2e3f9c44eb21e18e5bbb324f
+      internalID: 6062167822087531616
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_6
+      name: 18_midnight_spritesheet_6
       rect:
         serializedVersion: 2
         x: 600
         y: 700
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cdcd4d853266e9c4db8f4bc418d790cf
-      internalID: 7223964375592643700
+      spriteID: 117acc4e26c0cf04183a662ac7315184
+      internalID: 7333324851912577740
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_7
+      name: 18_midnight_spritesheet_7
       rect:
         serializedVersion: 2
         x: 700
         y: 700
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5534e090a6a492d45b628b804ddc511e
-      internalID: 9211607798652828248
+      spriteID: 4d6432d38606880449920de8cce43a65
+      internalID: -611563102071076472
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_8
+      name: 18_midnight_spritesheet_8
       rect:
         serializedVersion: 2
         x: 0
         y: 600
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7d1ba97897da1248a51082b7d3be16b
-      internalID: -1665503013322516492
+      spriteID: 1429347f86ff2ba4c9c79843be1e3d47
+      internalID: 1341293002823793137
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_9
+      name: 18_midnight_spritesheet_9
       rect:
         serializedVersion: 2
         x: 100
         y: 600
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e71c82f990c3574aa676d0683e71b70
-      internalID: -6841263663549580795
+      spriteID: 595e859b9608be748aeb53c8e7915cfb
+      internalID: 3687885857908724931
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_10
+      name: 18_midnight_spritesheet_10
       rect:
         serializedVersion: 2
         x: 200
         y: 600
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42a2b05b9702a154394a5e66f04ad53e
-      internalID: -2104605989002759816
+      spriteID: 6f0215abf86bba743b9fdd37214b2a09
+      internalID: -1298083768606061157
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_11
+      name: 18_midnight_spritesheet_11
       rect:
         serializedVersion: 2
         x: 300
         y: 600
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a07e4a0724f26734193dd541580b61c7
-      internalID: -1953229981728515932
+      spriteID: d4bc5c6af15008e458df24ba2be0f09a
+      internalID: 8093268784921398680
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_12
+      name: 18_midnight_spritesheet_12
       rect:
         serializedVersion: 2
         x: 400
         y: 600
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 834201672880c734686db9cc64c60da1
-      internalID: 5186414982265772723
+      spriteID: 7241af320d48388458b5edbd716c9a6a
+      internalID: -1317489849786439739
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_13
+      name: 18_midnight_spritesheet_13
       rect:
         serializedVersion: 2
         x: 500
         y: 600
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 313cdfe4d70e8ff4eb526cd8f3061b37
-      internalID: 8678432798149140542
+      spriteID: aefa435c588409846af7b7a5fba4e31c
+      internalID: 3079114349046288548
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_14
+      name: 18_midnight_spritesheet_14
       rect:
         serializedVersion: 2
         x: 600
         y: 600
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa540763cb5eed04486bea47f5f5eb09
-      internalID: 3497123677135596299
+      spriteID: 89bf831ec3850714dac4067784b11a5c
+      internalID: -1850302710861422086
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_15
+      name: 18_midnight_spritesheet_15
       rect:
         serializedVersion: 2
         x: 700
         y: 600
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4db9f07231d11746aecd04f8c99f2b5
-      internalID: 3290398892827020565
+      spriteID: 3a3b5df280d9942418fa09d8c639079c
+      internalID: -4849972725203124513
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_16
+      name: 18_midnight_spritesheet_16
       rect:
         serializedVersion: 2
         x: 0
         y: 500
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 84a3ab3701f9a1b4998f27c452f468f6
-      internalID: 3053915076868730950
+      spriteID: 17b8be850766fcd4f902eb35040e23e1
+      internalID: 1706611276178068450
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_17
+      name: 18_midnight_spritesheet_17
       rect:
         serializedVersion: 2
         x: 100
         y: 500
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e7ecb44e612fb484a8756df1da6471cc
-      internalID: -8848238324273062682
+      spriteID: 68c373559e3a69848b666e178ef5e1df
+      internalID: -1475377461793238234
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_18
+      name: 18_midnight_spritesheet_18
       rect:
         serializedVersion: 2
         x: 200
         y: 500
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9cd48ff9704f9e94687b98b068cf9f02
-      internalID: 7169236984608765428
+      spriteID: 0631ffa853b9bd641b1eca2a61fdd094
+      internalID: -393138869551162100
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_19
+      name: 18_midnight_spritesheet_19
       rect:
         serializedVersion: 2
         x: 300
         y: 500
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c40a52760d949d4bb6989a014a68d8a
-      internalID: -1331589761665662105
+      spriteID: 6f2eb68394053ff49aedf56f4b87ec10
+      internalID: -4922179752583707712
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_20
+      name: 18_midnight_spritesheet_20
       rect:
         serializedVersion: 2
         x: 400
         y: 500
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 244824033660ea2499db7539e870c099
-      internalID: 1023791138508955327
+      spriteID: 9faae291a19bc2c4894abb058f3a6bb9
+      internalID: -6953183448195280384
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_21
+      name: 18_midnight_spritesheet_21
       rect:
         serializedVersion: 2
         x: 500
         y: 500
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70f41e9fc3bae544891d2ec4ae3c9e19
-      internalID: 7672898474402729819
+      spriteID: 4abc4d598dc637a4d80fb874214edfe2
+      internalID: 8947847874957413759
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_22
+      name: 18_midnight_spritesheet_22
       rect:
         serializedVersion: 2
         x: 600
         y: 500
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0b448f36df66693448eb52544c84c670
-      internalID: -6403103267373643983
+      spriteID: fc66332e53e68ce42ae63ad43816b8b9
+      internalID: 5074502612816047927
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_23
+      name: 18_midnight_spritesheet_23
       rect:
         serializedVersion: 2
         x: 700
         y: 500
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a8b2d129849a5c43bab4f089dadef63
-      internalID: -1473288609433731306
+      spriteID: c9ae8ad780237cf4480f3c7d04b6352e
+      internalID: -5408112245498630866
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_24
+      name: 18_midnight_spritesheet_24
       rect:
         serializedVersion: 2
         x: 0
         y: 400
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08ae571231ed07345b98187674ac9159
-      internalID: 4477203403193557427
+      spriteID: 569bb172fdf261546a90182f6d2ab08c
+      internalID: 8913784772754894360
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_25
+      name: 18_midnight_spritesheet_25
       rect:
         serializedVersion: 2
         x: 100
         y: 400
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bae352c74c53d034ba3ad07d1bd1832c
-      internalID: 4445932191321339682
+      spriteID: 04e2b18cd17cecb4caade88dfa7af223
+      internalID: -1723857503700920250
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_26
+      name: 18_midnight_spritesheet_26
       rect:
         serializedVersion: 2
         x: 200
         y: 400
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62b053a6a900ae84b82b86c4b29a1037
-      internalID: 3247315481461261031
+      spriteID: 3ccdfd4313eb326408408a9a87bf2042
+      internalID: -2253619936136452454
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_27
+      name: 18_midnight_spritesheet_27
       rect:
         serializedVersion: 2
         x: 300
         y: 400
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f17589c67ad8304790f06fe518a2f5c
-      internalID: 2390942464528506674
+      spriteID: 6fdfa9a4b45a9d94f8f3181a85c60cf3
+      internalID: -2117305632561935543
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_28
+      name: 18_midnight_spritesheet_28
       rect:
         serializedVersion: 2
         x: 400
         y: 400
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 72369336f851c084aa084321a622b1c3
-      internalID: -6390227146658590305
+      spriteID: 1b41e5dce843f0d4cb08f0dc672ddd6d
+      internalID: -3188664968580161508
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_29
+      name: 18_midnight_spritesheet_29
       rect:
         serializedVersion: 2
         x: 500
         y: 400
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 811d2f9769d4c5b4bb218396ce37e69f
-      internalID: 938686038344875371
+      spriteID: ca9b01f60c65b8f479dff4a849facefc
+      internalID: 4274341151618065986
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_30
+      name: 18_midnight_spritesheet_30
       rect:
         serializedVersion: 2
         x: 600
         y: 400
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c86a16b536288ba429c1103dfb020027
-      internalID: 2179518683513091263
+      spriteID: 3f84919bafa5af34d8f5ef7b5bebc393
+      internalID: 3541805730554344286
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_31
+      name: 18_midnight_spritesheet_31
       rect:
         serializedVersion: 2
         x: 700
         y: 400
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1ebd8ad0e5d0d004d8ac1e94ccdb67e8
-      internalID: 335093914316318650
+      spriteID: 2d92e1d855393774aa6f76f0bef285da
+      internalID: 539039139303491577
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_32
+      name: 18_midnight_spritesheet_32
       rect:
         serializedVersion: 2
         x: 0
         y: 300
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd344562801aa654cae94619c724eb7d
-      internalID: -687299775227578609
+      spriteID: 83603afa40e7ea544b65133ec5eea95c
+      internalID: -2275492986154082127
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_33
+      name: 18_midnight_spritesheet_33
       rect:
         serializedVersion: 2
         x: 100
         y: 300
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ddcc8802a383d40468631c27612f23af
-      internalID: 8927914430665346584
+      spriteID: 2aba121b6972a344cbbfa09741e8b485
+      internalID: 4413078587445940002
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_34
+      name: 18_midnight_spritesheet_34
       rect:
         serializedVersion: 2
         x: 200
         y: 300
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f1e3f6cb4e78294c8434c54e81d4ec1
-      internalID: 7107235374645944568
+      spriteID: 738c9ab5925dae644b203a4f466486e6
+      internalID: 8381363426368685138
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_35
+      name: 18_midnight_spritesheet_35
       rect:
         serializedVersion: 2
         x: 300
         y: 300
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82baac5a61951184987d42cee953d3ff
-      internalID: -2183329127946052138
+      spriteID: d4d5af9270f03054f90ecf4b47ada597
+      internalID: 2607039851422170009
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_36
+      name: 18_midnight_spritesheet_36
       rect:
         serializedVersion: 2
         x: 400
         y: 300
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6295ef1142c63943ad930efd8b70227
-      internalID: -7744268219422363643
+      spriteID: 4713211a5190f19408d600a8a48fd1b9
+      internalID: -3169163829702069654
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_37
+      name: 18_midnight_spritesheet_37
       rect:
         serializedVersion: 2
         x: 500
         y: 300
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c4cf60b333681d240ba5d5bf32a39818
-      internalID: 1778107091326574670
+      spriteID: 463dde7ded8c6fc41a7eae5b4e7a88e8
+      internalID: 3478009219320006327
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_38
+      name: 18_midnight_spritesheet_38
       rect:
         serializedVersion: 2
         x: 600
         y: 300
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ef2764c64035424f8a49a0607c4751d
-      internalID: 4795100877918301641
+      spriteID: 44fc32e982efb6343b9cee860d2bec12
+      internalID: 2551438002453083617
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_39
+      name: 18_midnight_spritesheet_39
       rect:
         serializedVersion: 2
         x: 700
         y: 300
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c14f94512a201b48b691c86fadc925d
-      internalID: 10131433668712052
+      spriteID: c9bf49a4115a3394181ba6a9c4565cf6
+      internalID: -3621934530570389501
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_40
+      name: 18_midnight_spritesheet_40
       rect:
         serializedVersion: 2
         x: 0
         y: 200
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b3cafc3e7e0ab24d936df5909fe05e4
-      internalID: 379114784657702843
+      spriteID: a6e97775ba7c64448b020d2b5c877352
+      internalID: 3621277454725041769
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_41
+      name: 18_midnight_spritesheet_41
       rect:
         serializedVersion: 2
         x: 100
         y: 200
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13e322e60191dbb439a5389d4c3fa585
-      internalID: -1656771884616462433
+      spriteID: 725dc929f57b8e943814a36c1a9af1bb
+      internalID: -7239085734652670759
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_42
+      name: 18_midnight_spritesheet_42
       rect:
         serializedVersion: 2
         x: 200
         y: 200
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 36c06aaba057a114cae3698e42687b68
-      internalID: 2638449854011298771
+      spriteID: 5daf4da42d98fa34ea27ddba61840e3d
+      internalID: -485456920584524998
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_43
+      name: 18_midnight_spritesheet_43
       rect:
         serializedVersion: 2
         x: 300
         y: 200
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dbbdab3fa64b81947b716faebe901645
-      internalID: -1719537705800022675
+      spriteID: 55940b2ac37184244b33d78e60899836
+      internalID: 2534959238051979778
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_44
+      name: 18_midnight_spritesheet_44
       rect:
         serializedVersion: 2
         x: 400
         y: 200
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a3865075d5a2a74cbc8e74359bd8c6b
-      internalID: 2966488115930154186
+      spriteID: 40630e6f29d3df5499b30bb051abfb12
+      internalID: 1532483578173053734
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_45
+      name: 18_midnight_spritesheet_45
       rect:
         serializedVersion: 2
         x: 500
         y: 200
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 072c44eb0df3bc748a1c4becc5fc2841
-      internalID: -5097246636113490162
+      spriteID: 9f2c930ab3902b94fb7f0300a2795f0d
+      internalID: 2979971801901197042
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_46
+      name: 18_midnight_spritesheet_46
       rect:
         serializedVersion: 2
         x: 600
         y: 200
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bc4ddf43c4f65b342b963b5d03e06fb8
-      internalID: -7631247049102076789
+      spriteID: 6c5119e4ccc756b4fbdd094107c4db9e
+      internalID: 1140225233200406874
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_47
+      name: 18_midnight_spritesheet_47
       rect:
         serializedVersion: 2
         x: 700
         y: 200
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6fd78751f6724cf4994d34e87f75372d
-      internalID: -7181737775733733948
+      spriteID: c925f8b95ae51e04cab11ac5864e2b82
+      internalID: -698643475979276941
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_48
+      name: 18_midnight_spritesheet_48
       rect:
         serializedVersion: 2
         x: 0
         y: 100
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 924fd384a2deeb34f8824d9add907326
-      internalID: 2425019959240539735
+      spriteID: 6859487f4bf77f64281747b25b5f70fb
+      internalID: -2321760924485765682
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_49
+      name: 18_midnight_spritesheet_49
       rect:
         serializedVersion: 2
         x: 100
         y: 100
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bcbe4588bc84a4047b18eb4ef1ac6a3a
-      internalID: 6434014965283735744
+      spriteID: 8dfe3054b3e1aa0468e9760b34e9ed35
+      internalID: -3519999015363276306
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_50
+      name: 18_midnight_spritesheet_50
       rect:
         serializedVersion: 2
         x: 200
         y: 100
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ea2ab6b94a743024984f962705a38d08
-      internalID: 160136917904185498
+      spriteID: 0b4358416926138449268a824da44963
+      internalID: -1731856574154233122
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_51
+      name: 18_midnight_spritesheet_51
       rect:
         serializedVersion: 2
         x: 300
         y: 100
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1eabeaa094d72f549a0a54b410d68c9c
-      internalID: -1671750968177010187
+      spriteID: 8bd485eaf72231844974fe292c6fd535
+      internalID: 3262611013850237078
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_52
+      name: 18_midnight_spritesheet_52
       rect:
         serializedVersion: 2
         x: 400
         y: 100
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de371baa973b15649aaf8c56cc8f7162
-      internalID: -217503677135191608
+      spriteID: 1e2a5456a33b159479ad157dd4e425cd
+      internalID: 5527880444272381090
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_53
+      name: 18_midnight_spritesheet_53
       rect:
         serializedVersion: 2
         x: 500
         y: 100
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d87e1f98ebf0d784ebc9efe99b7c5959
-      internalID: 6804985082179121460
+      spriteID: a28fde0ce50759d46965e949759b25b6
+      internalID: -3210120753309757107
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_54
+      name: 18_midnight_spritesheet_54
       rect:
         serializedVersion: 2
         x: 600
         y: 100
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e7522dea561b62947b627c7a615b2df2
-      internalID: -5253406765567998284
+      spriteID: ff134cc4748568f4fa5642b5d0445153
+      internalID: 7715401647479375621
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_55
+      name: 18_midnight_spritesheet_55
       rect:
         serializedVersion: 2
         x: 700
         y: 100
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f6cbde33f1eb7444a90089197478c17
-      internalID: 7934933882126231814
+      spriteID: d0a721fcc2f48d74690386f72ab4b335
+      internalID: -1170386818519480535
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_56
+      name: 18_midnight_spritesheet_56
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5dbd90f4acdcd7b4ebac95d442e8a7b7
-      internalID: -4534116201438350968
+      spriteID: c75af82a616114648b75211b902e052f
+      internalID: -5335922523655049171
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_57
+      name: 18_midnight_spritesheet_57
       rect:
         serializedVersion: 2
         x: 100
         y: 0
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8acd6d77f82bd7544ba2edba6a9e30c5
-      internalID: -2480893072709772843
+      spriteID: 61f14c4afbd62b24280a2298d2c536a9
+      internalID: 3777383902354169814
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_58
+      name: 18_midnight_spritesheet_58
       rect:
         serializedVersion: 2
         x: 200
         y: 0
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 19f325a3016f47f4ea30abd4abf775b6
-      internalID: -9173862495893681979
+      spriteID: 0e66a85ba111ddf4dac0b32e14964bd5
+      internalID: -6535733805898711314
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_59
+      name: 18_midnight_spritesheet_59
       rect:
         serializedVersion: 2
         x: 300
         y: 0
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 80249a8a84b06bb4c885ca7bd71bb0bd
-      internalID: -1689651636669641139
+      spriteID: 7359f110c568eba449def2a12e943a74
+      internalID: -6042600510670738070
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_60
+      name: 18_midnight_spritesheet_60
       rect:
         serializedVersion: 2
         x: 400
         y: 0
         width: 100
         height: 100
-      alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee9b48d0618eab2429d98ace929a818c
-      internalID: -1769273148211566751
+      spriteID: a6c84ca04eea98448bf6c847be289f78
+      internalID: -8907365297867281783
       vertices: []
       indices: 
       edges: []
@@ -1706,7 +1550,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 1597c52f66fcbcb41b525eaadf30c081
+    spriteID: 027dc8c9933e6c5479b839d6d53ddb04
     internalID: 0
     vertices: []
     indices: 

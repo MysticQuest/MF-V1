@@ -9,9 +9,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 655778756835045573}
+  - component: {fileID: 655778756835045572}
   - component: {fileID: 655778756835045574}
   - component: {fileID: 655778756835045579}
-  - component: {fileID: 655778756835045572}
   - component: {fileID: 655778756835045578}
   - component: {fileID: 1694404234}
   m_Layer: 0
@@ -36,6 +36,24 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &655778756835045572
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 655778756835045575}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad7a6da4883cf04439e6d6461cc1408f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerStats:
+    mSpeed: 6
+    mSpeedWhileAtt: 3
+    maxHealth: 100
+  lockFlipTime: 0.5
+  mousePos: {x: 0, y: 0}
 --- !u!95 &655778756835045574
 Animator:
   serializedVersion: 3
@@ -76,24 +94,6 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &655778756835045572
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 655778756835045575}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ad7a6da4883cf04439e6d6461cc1408f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  playerStats:
-    mSpeed: 6
-    mSpeedWhileAtt: 3
-    maxHealth: 100
-  mousePos: {x: 0, y: 0}
-  lockFlipTime: 0.5
 --- !u!212 &655778756835045578
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -260,7 +260,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1265353026793625483}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.013, y: -0.365, z: 0}
+  m_LocalPosition: {x: 0, y: -0.365, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 655778757164352909}
@@ -281,10 +281,10 @@ MonoBehaviour:
   damage: 150
   manaCost: 0
   explDamage: 75
-  projSpeed: 5
-  bulletSpread: 0
+  projSpeed: 10
+  bulletSpread: 0.7
   cdAfterCast: 0
-  lifeTime: 2
+  lifeTime: 1
   castTime: 0.5
   castPrefab: {fileID: 5499528482271752173, guid: 8ddd679351c2a6f4d931a5ea6e07425d,
     type: 3}
@@ -299,4 +299,3 @@ MonoBehaviour:
   angleOffset: -90
   castSpawnOffset: {x: 0, y: 0, z: 0}
   spellSpawnOffset: {x: 0, y: 0, z: 0}
-  bulletSpreadV: {x: 0, y: 0}

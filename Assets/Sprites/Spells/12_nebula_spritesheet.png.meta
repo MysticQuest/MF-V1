@@ -1,346 +1,190 @@
 fileFormatVersion: 2
-guid: 11012ca7f0c0f7c43b78e18c16d9cdc4
+guid: aa12dc212664df8478cae7a1f87ab84f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6558452601870386918
-    second: 9_brightfire_spritesheet_0
+      213: -6613138216948627382
+    second: 12_nebula_spritesheet_0
   - first:
-      213: -2465196466674716113
-    second: 9_brightfire_spritesheet_1
+      213: -3787402153978632150
+    second: 12_nebula_spritesheet_1
   - first:
-      213: -9071517282817548811
-    second: 9_brightfire_spritesheet_2
+      213: -5097822029206565142
+    second: 12_nebula_spritesheet_2
   - first:
-      213: -5952158568716484751
-    second: 9_brightfire_spritesheet_3
+      213: -1671235269091576491
+    second: 12_nebula_spritesheet_3
   - first:
-      213: 448227872124431732
-    second: 9_brightfire_spritesheet_4
+      213: 4257225526397930675
+    second: 12_nebula_spritesheet_4
   - first:
-      213: -7610334878636687532
-    second: 9_brightfire_spritesheet_5
+      213: 4017011674637769315
+    second: 12_nebula_spritesheet_5
   - first:
-      213: 7223964375592643700
-    second: 9_brightfire_spritesheet_6
+      213: 4081351286543070988
+    second: 12_nebula_spritesheet_6
   - first:
-      213: 9211607798652828248
-    second: 9_brightfire_spritesheet_7
+      213: 5152018408936356970
+    second: 12_nebula_spritesheet_7
   - first:
-      213: -1665503013322516492
-    second: 9_brightfire_spritesheet_8
+      213: 7988113989698079350
+    second: 12_nebula_spritesheet_8
   - first:
-      213: -6841263663549580795
-    second: 9_brightfire_spritesheet_9
+      213: 5680753407355223867
+    second: 12_nebula_spritesheet_9
   - first:
-      213: -2104605989002759816
-    second: 9_brightfire_spritesheet_10
+      213: 4273857583964190645
+    second: 12_nebula_spritesheet_10
   - first:
-      213: -1953229981728515932
-    second: 9_brightfire_spritesheet_11
+      213: -5465370118238567324
+    second: 12_nebula_spritesheet_11
   - first:
-      213: 5186414982265772723
-    second: 9_brightfire_spritesheet_12
+      213: 2872330192738698113
+    second: 12_nebula_spritesheet_12
   - first:
-      213: 8678432798149140542
-    second: 9_brightfire_spritesheet_13
+      213: 5696545523203633344
+    second: 12_nebula_spritesheet_13
   - first:
-      213: 3497123677135596299
-    second: 9_brightfire_spritesheet_14
+      213: 3916701474850878538
+    second: 12_nebula_spritesheet_14
   - first:
-      213: 3290398892827020565
-    second: 9_brightfire_spritesheet_15
+      213: -7600413287273716593
+    second: 12_nebula_spritesheet_15
   - first:
-      213: 3053915076868730950
-    second: 9_brightfire_spritesheet_16
+      213: 3603160830699537017
+    second: 12_nebula_spritesheet_16
   - first:
-      213: -8848238324273062682
-    second: 9_brightfire_spritesheet_17
+      213: 1373963284152307731
+    second: 12_nebula_spritesheet_17
   - first:
-      213: 7169236984608765428
-    second: 9_brightfire_spritesheet_18
+      213: 9136320432110509626
+    second: 12_nebula_spritesheet_18
   - first:
-      213: -1331589761665662105
-    second: 9_brightfire_spritesheet_19
+      213: 7360592187958677931
+    second: 12_nebula_spritesheet_19
   - first:
-      213: 1023791138508955327
-    second: 9_brightfire_spritesheet_20
+      213: -5093053688519058062
+    second: 12_nebula_spritesheet_20
   - first:
-      213: 7672898474402729819
-    second: 9_brightfire_spritesheet_21
+      213: -8455753260503328096
+    second: 12_nebula_spritesheet_21
   - first:
-      213: -6403103267373643983
-    second: 9_brightfire_spritesheet_22
+      213: 8280836372958611058
+    second: 12_nebula_spritesheet_22
   - first:
-      213: -1473288609433731306
-    second: 9_brightfire_spritesheet_23
+      213: -7831734112730596456
+    second: 12_nebula_spritesheet_23
   - first:
-      213: 4477203403193557427
-    second: 9_brightfire_spritesheet_24
+      213: -1981235855280801361
+    second: 12_nebula_spritesheet_24
   - first:
-      213: 4445932191321339682
-    second: 9_brightfire_spritesheet_25
+      213: 6888750554005382637
+    second: 12_nebula_spritesheet_25
   - first:
-      213: 3247315481461261031
-    second: 9_brightfire_spritesheet_26
+      213: -4709089165074192086
+    second: 12_nebula_spritesheet_26
   - first:
-      213: 2390942464528506674
-    second: 9_brightfire_spritesheet_27
+      213: 8737196324899572222
+    second: 12_nebula_spritesheet_27
   - first:
-      213: -6390227146658590305
-    second: 9_brightfire_spritesheet_28
+      213: 6877986838699158768
+    second: 12_nebula_spritesheet_28
   - first:
-      213: 938686038344875371
-    second: 9_brightfire_spritesheet_29
+      213: 4333812121118849773
+    second: 12_nebula_spritesheet_29
   - first:
-      213: 2179518683513091263
-    second: 9_brightfire_spritesheet_30
+      213: -6759781238794875061
+    second: 12_nebula_spritesheet_30
   - first:
-      213: 335093914316318650
-    second: 9_brightfire_spritesheet_31
+      213: -8495531994302636495
+    second: 12_nebula_spritesheet_31
   - first:
-      213: -687299775227578609
-    second: 9_brightfire_spritesheet_32
+      213: 2052492026974901361
+    second: 12_nebula_spritesheet_32
   - first:
-      213: 8927914430665346584
-    second: 9_brightfire_spritesheet_33
+      213: -5454734419653154876
+    second: 12_nebula_spritesheet_33
   - first:
-      213: 7107235374645944568
-    second: 9_brightfire_spritesheet_34
+      213: 8519796226010296022
+    second: 12_nebula_spritesheet_34
   - first:
-      213: -2183329127946052138
-    second: 9_brightfire_spritesheet_35
+      213: -7235490906674622380
+    second: 12_nebula_spritesheet_35
   - first:
-      213: -7744268219422363643
-    second: 9_brightfire_spritesheet_36
+      213: 7448568626708010753
+    second: 12_nebula_spritesheet_36
   - first:
-      213: 1778107091326574670
-    second: 9_brightfire_spritesheet_37
+      213: -6776258039157893046
+    second: 12_nebula_spritesheet_37
   - first:
-      213: 4795100877918301641
-    second: 9_brightfire_spritesheet_38
+      213: -2881786353996182892
+    second: 12_nebula_spritesheet_38
   - first:
-      213: 10131433668712052
-    second: 9_brightfire_spritesheet_39
+      213: 2738101355740609583
+    second: 12_nebula_spritesheet_39
   - first:
-      213: 379114784657702843
-    second: 9_brightfire_spritesheet_40
+      213: 6523202183836731623
+    second: 12_nebula_spritesheet_40
   - first:
-      213: -1656771884616462433
-    second: 9_brightfire_spritesheet_41
+      213: 5492148048301389729
+    second: 12_nebula_spritesheet_41
   - first:
-      213: 2638449854011298771
-    second: 9_brightfire_spritesheet_42
+      213: 8458431505744076053
+    second: 12_nebula_spritesheet_42
   - first:
-      213: -1719537705800022675
-    second: 9_brightfire_spritesheet_43
+      213: -8122482191499262676
+    second: 12_nebula_spritesheet_43
   - first:
-      213: 2966488115930154186
-    second: 9_brightfire_spritesheet_44
+      213: 3279078323382916216
+    second: 12_nebula_spritesheet_44
   - first:
-      213: -5097246636113490162
-    second: 9_brightfire_spritesheet_45
+      213: 7010113638066060714
+    second: 12_nebula_spritesheet_45
   - first:
-      213: -7631247049102076789
-    second: 9_brightfire_spritesheet_46
+      213: -3412335487898854188
+    second: 12_nebula_spritesheet_46
   - first:
-      213: -7181737775733733948
-    second: 9_brightfire_spritesheet_47
+      213: 3338952554197558331
+    second: 12_nebula_spritesheet_47
   - first:
-      213: 2425019959240539735
-    second: 9_brightfire_spritesheet_48
+      213: 9095832104129534578
+    second: 12_nebula_spritesheet_48
   - first:
-      213: 6434014965283735744
-    second: 9_brightfire_spritesheet_49
+      213: -3536270056977536655
+    second: 12_nebula_spritesheet_49
   - first:
-      213: 160136917904185498
-    second: 9_brightfire_spritesheet_50
+      213: -2207918533469970706
+    second: 12_nebula_spritesheet_50
   - first:
-      213: -1671750968177010187
-    second: 9_brightfire_spritesheet_51
+      213: -3162915071819279107
+    second: 12_nebula_spritesheet_51
   - first:
-      213: -217503677135191608
-    second: 9_brightfire_spritesheet_52
+      213: -3429615228096458448
+    second: 12_nebula_spritesheet_52
   - first:
-      213: 6804985082179121460
-    second: 9_brightfire_spritesheet_53
+      213: -3805294800169255357
+    second: 12_nebula_spritesheet_53
   - first:
-      213: -5253406765567998284
-    second: 9_brightfire_spritesheet_54
+      213: 477518790531398704
+    second: 12_nebula_spritesheet_54
   - first:
-      213: 7934933882126231814
-    second: 9_brightfire_spritesheet_55
+      213: 7353467912614286146
+    second: 12_nebula_spritesheet_55
   - first:
-      213: -4534116201438350968
-    second: 9_brightfire_spritesheet_56
+      213: 8625347472287359143
+    second: 12_nebula_spritesheet_56
   - first:
-      213: -2480893072709772843
-    second: 9_brightfire_spritesheet_57
+      213: -6558008209167777505
+    second: 12_nebula_spritesheet_57
   - first:
-      213: -9173862495893681979
-    second: 9_brightfire_spritesheet_58
+      213: -8464023474963342522
+    second: 12_nebula_spritesheet_58
   - first:
-      213: -1689651636669641139
-    second: 9_brightfire_spritesheet_59
+      213: 2091443665614497354
+    second: 12_nebula_spritesheet_59
   - first:
-      213: -1769273148211566751
-    second: 9_brightfire_spritesheet_60
-  - first:
-      213: -2590416889178442603
-    second: 9_brightfire_spritesheet_61
-  - first:
-      213: 454628126545924811
-    second: 9_brightfire_spritesheet_62
-  - first:
-      213: -9190452179093443080
-    second: 9_brightfire_spritesheet_63
-  - first:
-      213: 1511370653515502611
-    second: 9_brightfire_spritesheet_64
-  - first:
-      213: -813139355366874579
-    second: 9_brightfire_spritesheet_65
-  - first:
-      213: 7084960776896199275
-    second: 9_brightfire_spritesheet_66
-  - first:
-      213: -4462718162552577474
-    second: 9_brightfire_spritesheet_67
-  - first:
-      213: 8585114173435985655
-    second: 9_brightfire_spritesheet_68
-  - first:
-      213: -7579590778560066222
-    second: 9_brightfire_spritesheet_69
-  - first:
-      213: 9175660806032495948
-    second: 9_brightfire_spritesheet_70
-  - first:
-      213: 3557409770640410435
-    second: 9_brightfire_spritesheet_71
-  - first:
-      213: 5453582219491059986
-    second: 9_brightfire_spritesheet_72
-  - first:
-      213: -4120243781041648078
-    second: 9_brightfire_spritesheet_73
-  - first:
-      213: -5294801483339151306
-    second: 9_brightfire_spritesheet_74
-  - first:
-      213: -7280030395066885755
-    second: 9_brightfire_spritesheet_75
-  - first:
-      213: 3447615285119613212
-    second: 9_brightfire_spritesheet_76
-  - first:
-      213: 6802260251430290794
-    second: 9_brightfire_spritesheet_77
-  - first:
-      213: 3947052174127204007
-    second: 9_brightfire_spritesheet_78
-  - first:
-      213: -4814474390063852828
-    second: 9_brightfire_spritesheet_79
-  - first:
-      213: -5450069580815889741
-    second: 9_brightfire_spritesheet_80
-  - first:
-      213: 920538527581718854
-    second: 9_brightfire_spritesheet_81
-  - first:
-      213: -3728015659706715392
-    second: 9_brightfire_spritesheet_82
-  - first:
-      213: -4100166519741604395
-    second: 9_brightfire_spritesheet_83
-  - first:
-      213: 5571697343864552184
-    second: 9_brightfire_spritesheet_84
-  - first:
-      213: -4983215996540050086
-    second: 9_brightfire_spritesheet_85
-  - first:
-      213: 5398406316137430964
-    second: 9_brightfire_spritesheet_86
-  - first:
-      213: -3079316169428356436
-    second: 9_brightfire_spritesheet_87
-  - first:
-      213: -6923297023825951964
-    second: 9_brightfire_spritesheet_88
-  - first:
-      213: 187372465830140028
-    second: 9_brightfire_spritesheet_89
-  - first:
-      213: -3063491580356715232
-    second: 9_brightfire_spritesheet_90
-  - first:
-      213: 1472175860589397632
-    second: 9_brightfire_spritesheet_91
-  - first:
-      213: 5402007214018285784
-    second: 9_brightfire_spritesheet_92
-  - first:
-      213: 1597196754672309369
-    second: 9_brightfire_spritesheet_93
-  - first:
-      213: -5165943801273138210
-    second: 9_brightfire_spritesheet_94
-  - first:
-      213: 6431756860247133372
-    second: 9_brightfire_spritesheet_95
-  - first:
-      213: -7081854163447679428
-    second: 9_brightfire_spritesheet_96
-  - first:
-      213: -5384790945792664390
-    second: 9_brightfire_spritesheet_97
-  - first:
-      213: 9088836704269973624
-    second: 9_brightfire_spritesheet_98
-  - first:
-      213: -914631902808815391
-    second: 9_brightfire_spritesheet_99
-  - first:
-      213: 3816975726218669852
-    second: 9_brightfire_spritesheet_100
-  - first:
-      213: 1407742279285727964
-    second: 9_brightfire_spritesheet_101
-  - first:
-      213: 2406163680122824745
-    second: 9_brightfire_spritesheet_102
-  - first:
-      213: -466776200968111146
-    second: 9_brightfire_spritesheet_103
-  - first:
-      213: -4106662539897340177
-    second: 9_brightfire_spritesheet_104
-  - first:
-      213: -7510475945451259158
-    second: 9_brightfire_spritesheet_105
-  - first:
-      213: 9162048052737077367
-    second: 9_brightfire_spritesheet_106
-  - first:
-      213: 6596170204297802358
-    second: 9_brightfire_spritesheet_107
-  - first:
-      213: -6659003681764639573
-    second: 9_brightfire_spritesheet_108
-  - first:
-      213: -782437298439401069
-    second: 9_brightfire_spritesheet_109
-  - first:
-      213: -8223831695715888980
-    second: 9_brightfire_spritesheet_110
-  - first:
-      213: -5780108859950960369
-    second: 9_brightfire_spritesheet_111
-  - first:
-      213: 3072350109056070336
-    second: 9_brightfire_spritesheet_112
+      213: 5313263180157714196
+    second: 12_nebula_spritesheet_60
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -423,7 +267,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_0
+      name: 12_nebula_spritesheet_0
       rect:
         serializedVersion: 2
         x: 0
@@ -431,20 +275,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15b2a635a1609af49a8d2bfc4bde6e09
-      internalID: -6558452601870386918
+      spriteID: 4a189764ee5169d44bedd2462e6886d3
+      internalID: -6613138216948627382
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_1
+      name: 12_nebula_spritesheet_1
       rect:
         serializedVersion: 2
         x: 100
@@ -452,20 +296,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 490b7173de7ddba4eaaa4cd137fdbb9a
-      internalID: -2465196466674716113
+      spriteID: 9d99e758be7499749b3efa940b78704f
+      internalID: -3787402153978632150
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_2
+      name: 12_nebula_spritesheet_2
       rect:
         serializedVersion: 2
         x: 200
@@ -473,20 +317,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4199aa25435b8db48be0b6175ec37a88
-      internalID: -9071517282817548811
+      spriteID: 951c96c74d6cfa44daae47579d6d35e9
+      internalID: -5097822029206565142
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_3
+      name: 12_nebula_spritesheet_3
       rect:
         serializedVersion: 2
         x: 300
@@ -494,20 +338,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b33332b40f99cf4994c9cd7cb4cf545
-      internalID: -5952158568716484751
+      spriteID: 31d7cf289cf379245a38be23164e9f20
+      internalID: -1671235269091576491
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_4
+      name: 12_nebula_spritesheet_4
       rect:
         serializedVersion: 2
         x: 400
@@ -515,20 +359,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c9c250cc5c049f2448a743e41cec49e3
-      internalID: 448227872124431732
+      spriteID: 611ba351a250ec44583267826f0e5709
+      internalID: 4257225526397930675
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_5
+      name: 12_nebula_spritesheet_5
       rect:
         serializedVersion: 2
         x: 500
@@ -536,20 +380,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d475d4b843a39847817021ca447dfa4
-      internalID: -7610334878636687532
+      spriteID: 27f07fc43af977b4bac2709f621496dc
+      internalID: 4017011674637769315
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_6
+      name: 12_nebula_spritesheet_6
       rect:
         serializedVersion: 2
         x: 600
@@ -557,20 +401,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cdcd4d853266e9c4db8f4bc418d790cf
-      internalID: 7223964375592643700
+      spriteID: ecf6535c632d7814d9c13b151260f3e5
+      internalID: 4081351286543070988
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_7
+      name: 12_nebula_spritesheet_7
       rect:
         serializedVersion: 2
         x: 700
@@ -578,20 +422,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5534e090a6a492d45b628b804ddc511e
-      internalID: 9211607798652828248
+      spriteID: e654001516b66a641ae057f9dd8b2553
+      internalID: 5152018408936356970
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_8
+      name: 12_nebula_spritesheet_8
       rect:
         serializedVersion: 2
         x: 0
@@ -599,20 +443,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7d1ba97897da1248a51082b7d3be16b
-      internalID: -1665503013322516492
+      spriteID: 4fadd54f79b41e746b1b830ef9152b02
+      internalID: 7988113989698079350
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_9
+      name: 12_nebula_spritesheet_9
       rect:
         serializedVersion: 2
         x: 100
@@ -620,20 +464,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e71c82f990c3574aa676d0683e71b70
-      internalID: -6841263663549580795
+      spriteID: cb17e9fd77e27ae4586bb737c1427bc5
+      internalID: 5680753407355223867
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_10
+      name: 12_nebula_spritesheet_10
       rect:
         serializedVersion: 2
         x: 200
@@ -641,20 +485,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42a2b05b9702a154394a5e66f04ad53e
-      internalID: -2104605989002759816
+      spriteID: 0c2025745307abf41bfc3b62cb20efd2
+      internalID: 4273857583964190645
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_11
+      name: 12_nebula_spritesheet_11
       rect:
         serializedVersion: 2
         x: 300
@@ -662,20 +506,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a07e4a0724f26734193dd541580b61c7
-      internalID: -1953229981728515932
+      spriteID: 40a33aef92d322e498364cc2924d21fb
+      internalID: -5465370118238567324
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_12
+      name: 12_nebula_spritesheet_12
       rect:
         serializedVersion: 2
         x: 400
@@ -683,20 +527,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 834201672880c734686db9cc64c60da1
-      internalID: 5186414982265772723
+      spriteID: db820b1801da82e41863b8cee40dd0f5
+      internalID: 2872330192738698113
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_13
+      name: 12_nebula_spritesheet_13
       rect:
         serializedVersion: 2
         x: 500
@@ -704,20 +548,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 313cdfe4d70e8ff4eb526cd8f3061b37
-      internalID: 8678432798149140542
+      spriteID: 35571827de4bfe14c8dffee35c80fdb6
+      internalID: 5696545523203633344
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_14
+      name: 12_nebula_spritesheet_14
       rect:
         serializedVersion: 2
         x: 600
@@ -725,20 +569,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa540763cb5eed04486bea47f5f5eb09
-      internalID: 3497123677135596299
+      spriteID: e6f3db6c9617d7540ac44c004ce91efc
+      internalID: 3916701474850878538
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_15
+      name: 12_nebula_spritesheet_15
       rect:
         serializedVersion: 2
         x: 700
@@ -746,20 +590,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4db9f07231d11746aecd04f8c99f2b5
-      internalID: 3290398892827020565
+      spriteID: cf030c1db7e29194e92aab23fa69fd7e
+      internalID: -7600413287273716593
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_16
+      name: 12_nebula_spritesheet_16
       rect:
         serializedVersion: 2
         x: 0
@@ -767,20 +611,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 84a3ab3701f9a1b4998f27c452f468f6
-      internalID: 3053915076868730950
+      spriteID: 2099daee8801c37418e752a028002208
+      internalID: 3603160830699537017
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_17
+      name: 12_nebula_spritesheet_17
       rect:
         serializedVersion: 2
         x: 100
@@ -788,20 +632,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e7ecb44e612fb484a8756df1da6471cc
-      internalID: -8848238324273062682
+      spriteID: 0df7530531ee4ee459dfaf480bb4f5e7
+      internalID: 1373963284152307731
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_18
+      name: 12_nebula_spritesheet_18
       rect:
         serializedVersion: 2
         x: 200
@@ -809,20 +653,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9cd48ff9704f9e94687b98b068cf9f02
-      internalID: 7169236984608765428
+      spriteID: 88d5f27ab3d7763439ffcf74a7f2d3bd
+      internalID: 9136320432110509626
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_19
+      name: 12_nebula_spritesheet_19
       rect:
         serializedVersion: 2
         x: 300
@@ -830,20 +674,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c40a52760d949d4bb6989a014a68d8a
-      internalID: -1331589761665662105
+      spriteID: 310dbcc069e8aba44a4c1b4b531f683e
+      internalID: 7360592187958677931
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_20
+      name: 12_nebula_spritesheet_20
       rect:
         serializedVersion: 2
         x: 400
@@ -851,20 +695,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 244824033660ea2499db7539e870c099
-      internalID: 1023791138508955327
+      spriteID: 10968cd6021b2614a8609c4527912b04
+      internalID: -5093053688519058062
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_21
+      name: 12_nebula_spritesheet_21
       rect:
         serializedVersion: 2
         x: 500
@@ -872,20 +716,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70f41e9fc3bae544891d2ec4ae3c9e19
-      internalID: 7672898474402729819
+      spriteID: e22b757f0eec3e74fab5a2670c1d2fec
+      internalID: -8455753260503328096
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_22
+      name: 12_nebula_spritesheet_22
       rect:
         serializedVersion: 2
         x: 600
@@ -893,20 +737,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0b448f36df66693448eb52544c84c670
-      internalID: -6403103267373643983
+      spriteID: 1c5281501d4e47d43b96e1663b928277
+      internalID: 8280836372958611058
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_23
+      name: 12_nebula_spritesheet_23
       rect:
         serializedVersion: 2
         x: 700
@@ -914,20 +758,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a8b2d129849a5c43bab4f089dadef63
-      internalID: -1473288609433731306
+      spriteID: 9aa12a54806922a499edc80fd54f7b81
+      internalID: -7831734112730596456
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_24
+      name: 12_nebula_spritesheet_24
       rect:
         serializedVersion: 2
         x: 0
@@ -935,20 +779,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08ae571231ed07345b98187674ac9159
-      internalID: 4477203403193557427
+      spriteID: 139084fe600954a4bb657dd86cafc519
+      internalID: -1981235855280801361
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_25
+      name: 12_nebula_spritesheet_25
       rect:
         serializedVersion: 2
         x: 100
@@ -956,20 +800,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bae352c74c53d034ba3ad07d1bd1832c
-      internalID: 4445932191321339682
+      spriteID: 3f95d8b47a574e847adf1953519c777c
+      internalID: 6888750554005382637
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_26
+      name: 12_nebula_spritesheet_26
       rect:
         serializedVersion: 2
         x: 200
@@ -977,20 +821,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62b053a6a900ae84b82b86c4b29a1037
-      internalID: 3247315481461261031
+      spriteID: b0b7b1edf49aac9408ac3782d213f605
+      internalID: -4709089165074192086
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_27
+      name: 12_nebula_spritesheet_27
       rect:
         serializedVersion: 2
         x: 300
@@ -998,20 +842,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f17589c67ad8304790f06fe518a2f5c
-      internalID: 2390942464528506674
+      spriteID: ffd7916783ddf4f4da29f1b5ee2668e0
+      internalID: 8737196324899572222
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_28
+      name: 12_nebula_spritesheet_28
       rect:
         serializedVersion: 2
         x: 400
@@ -1019,20 +863,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 72369336f851c084aa084321a622b1c3
-      internalID: -6390227146658590305
+      spriteID: 0465c24e06155e14aa3b4a4c1b5a97b6
+      internalID: 6877986838699158768
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_29
+      name: 12_nebula_spritesheet_29
       rect:
         serializedVersion: 2
         x: 500
@@ -1040,20 +884,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 811d2f9769d4c5b4bb218396ce37e69f
-      internalID: 938686038344875371
+      spriteID: f70f264eca4dac44785dd7ca31f8a8a1
+      internalID: 4333812121118849773
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_30
+      name: 12_nebula_spritesheet_30
       rect:
         serializedVersion: 2
         x: 600
@@ -1061,20 +905,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c86a16b536288ba429c1103dfb020027
-      internalID: 2179518683513091263
+      spriteID: fbf5675b3dbeb7c4eaea492bc16e75e3
+      internalID: -6759781238794875061
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_31
+      name: 12_nebula_spritesheet_31
       rect:
         serializedVersion: 2
         x: 700
@@ -1082,20 +926,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1ebd8ad0e5d0d004d8ac1e94ccdb67e8
-      internalID: 335093914316318650
+      spriteID: 55589c02c6c616d4b9d180865bb784d2
+      internalID: -8495531994302636495
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_32
+      name: 12_nebula_spritesheet_32
       rect:
         serializedVersion: 2
         x: 0
@@ -1103,20 +947,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd344562801aa654cae94619c724eb7d
-      internalID: -687299775227578609
+      spriteID: b3c2e6a7a1e9d654bb68ac1c507c7ff5
+      internalID: 2052492026974901361
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_33
+      name: 12_nebula_spritesheet_33
       rect:
         serializedVersion: 2
         x: 100
@@ -1124,20 +968,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ddcc8802a383d40468631c27612f23af
-      internalID: 8927914430665346584
+      spriteID: 650b20bfeaa2bfe4aa6be619c918b722
+      internalID: -5454734419653154876
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_34
+      name: 12_nebula_spritesheet_34
       rect:
         serializedVersion: 2
         x: 200
@@ -1145,20 +989,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f1e3f6cb4e78294c8434c54e81d4ec1
-      internalID: 7107235374645944568
+      spriteID: 6a2060d68bdfcc8428eab3724847fea4
+      internalID: 8519796226010296022
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_35
+      name: 12_nebula_spritesheet_35
       rect:
         serializedVersion: 2
         x: 300
@@ -1166,20 +1010,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82baac5a61951184987d42cee953d3ff
-      internalID: -2183329127946052138
+      spriteID: dd2d22b3dc04a584faffe92555b1e500
+      internalID: -7235490906674622380
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_36
+      name: 12_nebula_spritesheet_36
       rect:
         serializedVersion: 2
         x: 400
@@ -1187,20 +1031,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6295ef1142c63943ad930efd8b70227
-      internalID: -7744268219422363643
+      spriteID: 859d736c0a1f62249840284f30aad511
+      internalID: 7448568626708010753
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_37
+      name: 12_nebula_spritesheet_37
       rect:
         serializedVersion: 2
         x: 500
@@ -1208,20 +1052,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c4cf60b333681d240ba5d5bf32a39818
-      internalID: 1778107091326574670
+      spriteID: d23fd5f8c41c4d940873b74467145020
+      internalID: -6776258039157893046
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_38
+      name: 12_nebula_spritesheet_38
       rect:
         serializedVersion: 2
         x: 600
@@ -1229,20 +1073,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ef2764c64035424f8a49a0607c4751d
-      internalID: 4795100877918301641
+      spriteID: d7f554b6f9e1d98408512b3c63788d01
+      internalID: -2881786353996182892
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_39
+      name: 12_nebula_spritesheet_39
       rect:
         serializedVersion: 2
         x: 700
@@ -1250,20 +1094,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c14f94512a201b48b691c86fadc925d
-      internalID: 10131433668712052
+      spriteID: 78599cbc128a08b4aa3ec5bfaa93e7ef
+      internalID: 2738101355740609583
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_40
+      name: 12_nebula_spritesheet_40
       rect:
         serializedVersion: 2
         x: 0
@@ -1271,20 +1115,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b3cafc3e7e0ab24d936df5909fe05e4
-      internalID: 379114784657702843
+      spriteID: 9c9300dad1502644bbb3e3442bc4f1d4
+      internalID: 6523202183836731623
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_41
+      name: 12_nebula_spritesheet_41
       rect:
         serializedVersion: 2
         x: 100
@@ -1292,20 +1136,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13e322e60191dbb439a5389d4c3fa585
-      internalID: -1656771884616462433
+      spriteID: 07b42b307b0d2e7439807f9c2fb171eb
+      internalID: 5492148048301389729
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_42
+      name: 12_nebula_spritesheet_42
       rect:
         serializedVersion: 2
         x: 200
@@ -1313,20 +1157,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 36c06aaba057a114cae3698e42687b68
-      internalID: 2638449854011298771
+      spriteID: 1f75e6fe38bcfc74eba3558366a77253
+      internalID: 8458431505744076053
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_43
+      name: 12_nebula_spritesheet_43
       rect:
         serializedVersion: 2
         x: 300
@@ -1334,20 +1178,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dbbdab3fa64b81947b716faebe901645
-      internalID: -1719537705800022675
+      spriteID: ab3441e0b056ced40a27dc2df6b4f03b
+      internalID: -8122482191499262676
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_44
+      name: 12_nebula_spritesheet_44
       rect:
         serializedVersion: 2
         x: 400
@@ -1355,20 +1199,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a3865075d5a2a74cbc8e74359bd8c6b
-      internalID: 2966488115930154186
+      spriteID: 32495915cbab5584d8807ebef1e2b328
+      internalID: 3279078323382916216
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_45
+      name: 12_nebula_spritesheet_45
       rect:
         serializedVersion: 2
         x: 500
@@ -1376,20 +1220,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 072c44eb0df3bc748a1c4becc5fc2841
-      internalID: -5097246636113490162
+      spriteID: 5dc7aa8e5875abc4b874441fc2d48055
+      internalID: 7010113638066060714
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_46
+      name: 12_nebula_spritesheet_46
       rect:
         serializedVersion: 2
         x: 600
@@ -1397,20 +1241,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bc4ddf43c4f65b342b963b5d03e06fb8
-      internalID: -7631247049102076789
+      spriteID: 77e2dad0ecf3f344d913f96719c593c0
+      internalID: -3412335487898854188
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_47
+      name: 12_nebula_spritesheet_47
       rect:
         serializedVersion: 2
         x: 700
@@ -1418,20 +1262,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6fd78751f6724cf4994d34e87f75372d
-      internalID: -7181737775733733948
+      spriteID: e5712b6c5b5109147a1b37306226c33f
+      internalID: 3338952554197558331
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_48
+      name: 12_nebula_spritesheet_48
       rect:
         serializedVersion: 2
         x: 0
@@ -1439,20 +1283,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 924fd384a2deeb34f8824d9add907326
-      internalID: 2425019959240539735
+      spriteID: 9ef27149313039f46be4a924cf2139ec
+      internalID: 9095832104129534578
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_49
+      name: 12_nebula_spritesheet_49
       rect:
         serializedVersion: 2
         x: 100
@@ -1460,20 +1304,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bcbe4588bc84a4047b18eb4ef1ac6a3a
-      internalID: 6434014965283735744
+      spriteID: 4677d7c76fb06064f9cd5bad0b36b9d5
+      internalID: -3536270056977536655
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_50
+      name: 12_nebula_spritesheet_50
       rect:
         serializedVersion: 2
         x: 200
@@ -1481,20 +1325,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ea2ab6b94a743024984f962705a38d08
-      internalID: 160136917904185498
+      spriteID: 25def34326f37fb4a8f8735a600ec8ac
+      internalID: -2207918533469970706
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_51
+      name: 12_nebula_spritesheet_51
       rect:
         serializedVersion: 2
         x: 300
@@ -1502,20 +1346,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1eabeaa094d72f549a0a54b410d68c9c
-      internalID: -1671750968177010187
+      spriteID: 53aa583b80e71e44e92d55954d81472a
+      internalID: -3162915071819279107
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_52
+      name: 12_nebula_spritesheet_52
       rect:
         serializedVersion: 2
         x: 400
@@ -1523,20 +1367,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de371baa973b15649aaf8c56cc8f7162
-      internalID: -217503677135191608
+      spriteID: 0375e0032ba2bdc458e4b5e7a1633fd9
+      internalID: -3429615228096458448
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_53
+      name: 12_nebula_spritesheet_53
       rect:
         serializedVersion: 2
         x: 500
@@ -1544,20 +1388,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d87e1f98ebf0d784ebc9efe99b7c5959
-      internalID: 6804985082179121460
+      spriteID: bbec70dbd6665804da832e3ed6aaf5c0
+      internalID: -3805294800169255357
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_54
+      name: 12_nebula_spritesheet_54
       rect:
         serializedVersion: 2
         x: 600
@@ -1565,20 +1409,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e7522dea561b62947b627c7a615b2df2
-      internalID: -5253406765567998284
+      spriteID: 8d9c48ba810c0b54786a0fecf09db2a9
+      internalID: 477518790531398704
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_55
+      name: 12_nebula_spritesheet_55
       rect:
         serializedVersion: 2
         x: 700
@@ -1586,20 +1430,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f6cbde33f1eb7444a90089197478c17
-      internalID: 7934933882126231814
+      spriteID: b3771b9430bc8a94aa81aa959dc4a8d3
+      internalID: 7353467912614286146
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_56
+      name: 12_nebula_spritesheet_56
       rect:
         serializedVersion: 2
         x: 0
@@ -1607,20 +1451,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5dbd90f4acdcd7b4ebac95d442e8a7b7
-      internalID: -4534116201438350968
+      spriteID: 55e1db6fcf5a87046a25fa39a52601d6
+      internalID: 8625347472287359143
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_57
+      name: 12_nebula_spritesheet_57
       rect:
         serializedVersion: 2
         x: 100
@@ -1628,20 +1472,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8acd6d77f82bd7544ba2edba6a9e30c5
-      internalID: -2480893072709772843
+      spriteID: d4e84a9db8297564fb6d390a3cdfd2f5
+      internalID: -6558008209167777505
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_58
+      name: 12_nebula_spritesheet_58
       rect:
         serializedVersion: 2
         x: 200
@@ -1649,20 +1493,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 19f325a3016f47f4ea30abd4abf775b6
-      internalID: -9173862495893681979
+      spriteID: a9abae43281716446b04ada84b2f7f9b
+      internalID: -8464023474963342522
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_59
+      name: 12_nebula_spritesheet_59
       rect:
         serializedVersion: 2
         x: 300
@@ -1670,20 +1514,20 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 80249a8a84b06bb4c885ca7bd71bb0bd
-      internalID: -1689651636669641139
+      spriteID: cdc63f71115251c4898f3d3d042ba9c0
+      internalID: 2091443665614497354
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9_brightfire_spritesheet_60
+      name: 12_nebula_spritesheet_60
       rect:
         serializedVersion: 2
         x: 400
@@ -1691,14 +1535,14 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 9
-      pivot: {x: 0.5311236, y: 0.5704364}
+      pivot: {x: 0.5253124, y: 0.4515747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee9b48d0618eab2429d98ace929a818c
-      internalID: -1769273148211566751
+      spriteID: a006f36597eaafe4aa7078df580aaa32
+      internalID: 5313263180157714196
       vertices: []
       indices: 
       edges: []
@@ -1706,7 +1550,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 1597c52f66fcbcb41b525eaadf30c081
+    spriteID: d4ea1d5b86b61794d87d390c9af7c270
     internalID: 0
     vertices: []
     indices: 
