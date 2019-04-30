@@ -12,11 +12,13 @@ public class SpellManager : MonoBehaviour
     public int explDamage;
     public float projSpeed = 10f;
     public float bulletSpread = 0f;
+    public float castTime = 1f;
     public float cdAfterCast = 1f;
     public float lifeTime = 2f;
-    public float castTime = 1f;
+    public float lifeTimeRandomF = 0f;
     public Vector3 spawnPoint;
-    public bool IsProjectile = true;
+    public bool HasCast = true;
+    public bool IsProjectile = true; //experimental
     public GameObject castPrefab;
     public GameObject spellPrefab;
     public GameObject explosionPrefab;
@@ -32,7 +34,7 @@ public class SpellManager : MonoBehaviour
     public Vector3 castSpawnOffset;
     public Vector3 spellSpawnOffset;
 
-    //IGNORE
+    //IGNORE - DEBUGGING ONLY
     bool coolDown = false;
     Player player;
     GameObject cast;
@@ -43,7 +45,8 @@ public class SpellManager : MonoBehaviour
     float rotZ;
     Vector2 bulletSpreadV;
     float bulletSpreadRR;
-    //IGNORE
+    float lifeTimeRandomRR;
+    //IGNORE - DEBUGGING ONLY
 
     public void Start()
     {
@@ -61,7 +64,9 @@ public class SpellManager : MonoBehaviour
         if (CrossPlatformInputManager.GetButton("Fire1") && coolDown == false)
         {
             coolDown = true;
-            StartCoroutine(StartCasting());
+            if (HasCast) { StartCoroutine(StartCasting()); }
+            else { StartCoroutine(ShootSomething()); }
+
         }
     }
 
@@ -77,20 +82,21 @@ public class SpellManager : MonoBehaviour
     IEnumerator ShootSomething()
     {
         CursorAngle();
-        spawnPoint = this.transform.position; //TO BE REVISITED
+        spawnPoint = this.transform.position; //TO BE REVISITED for custom spawn points
         bulletSpreadRR = Random.Range(-bulletSpread, bulletSpread);
+        lifeTimeRandomRR = Random.Range(-lifeTimeRandomF, lifeTimeRandomF);
+
         spell = Instantiate(spellPrefab, spawnPoint + spellSpawnOffset, transform.rotation) as GameObject;
         ConfigureSpell();
-        Destroy(spell, lifeTime);
+        Destroy(spell, lifeTime + lifeTimeRandomRR);
         yield return new WaitForSeconds(cdAfterCast);
         coolDown = false;
     }
 
     private void ConfigureSpell()
     {
-        //if (spellBody) { spellBody.velocity = player.mousePos.normalized * projSpeed; } // ALTERNATIVE
-        spellBody = spell.GetComponent<Rigidbody2D>();
-        if (spellBody) { SpellMovementType(); }
+        SpellMovementType();
+
         damageDealer = spell.GetComponent<DamageDealer>();
         if (damageDealer) { damageDealer.damage = damage; }
         explodeEffect = spell.GetComponent<ExplodeEffect>();
@@ -103,9 +109,10 @@ public class SpellManager : MonoBehaviour
     {
         if (IsProjectile)
         {
-            spellBody.velocity = transform.up * projSpeed;
+            spellBody = spell.GetComponent<Rigidbody2D>();
+            if (spellBody) { spellBody.velocity = transform.up * projSpeed; }
         }
-        else
+        else //raycast, homing, spawnpoint or mines - must 
         {
             return;
         }
@@ -113,8 +120,8 @@ public class SpellManager : MonoBehaviour
 
     private void CursorAngle()
     {
-        rotZ = Mathf.Atan2(player.mousePos.y + bulletSpreadRR, player.mousePos.x + bulletSpreadRR) * Mathf.Rad2Deg;
-        transform.rotation = Quaternion.Euler(0, 0, rotZ + angleOffset);
+        rotZ = Mathf.Atan2(player.mousePos.y, player.mousePos.x) * Mathf.Rad2Deg;
+        transform.rotation = Quaternion.Euler(0, 0, rotZ + angleOffset + bulletSpreadRR);
         //transform.rotation = Quaternion.AngleAxis(rotZ + angleOffset, Vector3.forward); //ALTERNATIVE
     }
 

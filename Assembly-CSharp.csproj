@@ -67,6 +67,9 @@
     <Compile Include="Assets\Scripts\Player\PlayerHealth.cs" />
     <Compile Include="Assets\Scripts\PlayerMovementOld.cs" />
     <Compile Include="Assets\Scripts\PlayerOld.cs" />
+    <Compile Include="Assets\Scripts\SO scripts\Ability.cs" />
+    <Compile Include="Assets\Scripts\SO scripts\ProjectileAbility.cs" />
+    <Compile Include="Assets\Scripts\SO scripts\RaycastAbility.cs" />
     <Compile Include="Assets\Scripts\Spells\ExplodeEffect.cs" />
     <Compile Include="Assets\Scripts\Spells\Explosion.cs" />
     <Compile Include="Assets\Scripts\Spells\SpellManager.cs" />

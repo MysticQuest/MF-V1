@@ -27,7 +27,7 @@ public class ExplodeEffect : MonoBehaviour
     {
         if (!IsQuitting && explosionPrefab)
         {
-            GameObject explosion = Instantiate(explosionPrefab, transform.position + transform.position * 0.1f, transform.rotation) as GameObject;
+            GameObject explosion = Instantiate(explosionPrefab, transform.position + transform.up * 1.05f, transform.rotation) as GameObject;
             damageDealer = explosion.GetComponent<DamageDealer>();
             if (damageDealer) { damageDealer.damage = explDamage; }
         }

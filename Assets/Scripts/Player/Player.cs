@@ -46,13 +46,10 @@ public class Player : MonoBehaviour
 
     void Update()
     {
-        hasmoveX = Mathf.Abs(rBody.velocity.x) > Mathf.Epsilon;
-        hasmoveY = Mathf.Abs(rBody.velocity.y) > Mathf.Epsilon;
-        IsWalking = hasmoveX || hasmoveY;
-
         Walk();
-        GetMousePos();
         Flip();
+        GetMousePos();
+        DetectMovement();
     }
 
     private void Walk()
@@ -76,19 +73,18 @@ public class Player : MonoBehaviour
     {
         if (CrossPlatformInputManager.GetButton("Fire1") && !locked)
         {
-            Vector2 mouseDirection = new Vector2(Math.Sign(mousePos.x), 1);
+            Vector3 mouseDirection = new Vector3(Math.Sign(mousePos.x), 1, 1);
             if (mouseDirection.x == 0) { return; }
             transform.localScale = mouseDirection;
             StartCoroutine(LockFlip(lockFlipTime));
         }
 
-        if (IsWalking && !locked)
+        if (hasmoveX && !locked)
         {
-            Vector2 moveDirection = new Vector2(Math.Sign(rBody.velocity.x), 1);
+            Vector3 moveDirection = new Vector3(Math.Sign(rBody.velocity.x), 1, 1);
             if (moveDirection.x == 0) { return; }
             transform.localScale = moveDirection;
         }
-
     }
 
     IEnumerator LockFlip(float lockFlipTime)
@@ -96,5 +92,12 @@ public class Player : MonoBehaviour
         locked = true;
         yield return new WaitForSeconds(lockFlipTime);
         locked = false;
+    }
+
+    private void DetectMovement()
+    {
+        hasmoveX = Mathf.Abs(rBody.velocity.x) > Mathf.Epsilon;
+        hasmoveY = Mathf.Abs(rBody.velocity.y) > Mathf.Epsilon;
+        IsWalking = hasmoveX || hasmoveY;
     }
 }
